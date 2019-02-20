@@ -2,8 +2,7 @@
 This is a demonstration projects allowing me to mess with cool math, display of results and the ability to create star charts.
 
 Overview
-  Planets is a program written to provide you primarily with data about the location of planets and stars and some other stuff
-  that comes out of this ability.
+Planets is a program written to provide you primarily with data about the location of planets and stars and some other stuff that comes out of this ability.
 
 Planets
   You can find the location of any of the major planets, the sun and the moon in various coordinate systems and from either a
